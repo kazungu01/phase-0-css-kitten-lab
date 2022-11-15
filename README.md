@@ -46,7 +46,7 @@ Here's an example of what absolute positioning looks like in CSS:
 > that's why in the example, we're specifying `position: relative` for the
 > parent element. Check out the resources on positioning for more info on this
 > if you're interested!
-
+phase-0-css-kitten-lab 
 For this lab, we've done the work of calculating the absolute positions and
 creating CSS rules for a bunch of different kitten image elements. It's your job
 to use CSS selectors to apply the correct positioning to each of these elements.
